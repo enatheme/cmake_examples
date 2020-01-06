@@ -1,3 +1,6 @@
 [submodule "example_3/thirdparty/spdlog"]
 	path = example_3/thirdparty/spdlog
 	url = https://github.com/gabime/spdlog.git
+[submodule "example_5/thirdparty/cryptopp"]
+	path = example_5/thirdparty/cryptopp
+	url = https://github.com/weidai11/cryptopp.git
